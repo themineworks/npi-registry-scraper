@@ -1,0 +1,15 @@
+{
+  "name": "npi-registry-scraper",
+  "version": "2.0.0",
+  "type": "module",
+  "description": "US healthcare providers, specialties, and NPIs. Python, Node.js and cURL clients for the NPI Registry Scraper on Apify, pay per result.",
+  "main": "npi_registry_scraper.mjs",
+  "scripts": {
+    "start": "node npi_registry_scraper.mjs"
+  },
+  "dependencies": {
+    "apify-client": "^2.9.0"
+  },
+  "license": "MIT",
+  "homepage": "https://themineworks.com/actors/npi-registry-healthcare/"
+}
